@@ -86,3 +86,15 @@ Report Generation – Write summaries dynamically
 Text Processing – File cleanup and data parsing
 
 Small Databases – Store student records or inventories
+
+
+
+
+output:
+<img width="586" height="100" alt="Image" src="https://github.com/user-attachments/assets/fd040752-d563-4889-86b0-4d874e1dc3b4" />
+
+<img width="597" height="98" alt="Image" src="https://github.com/user-attachments/assets/ba2d2555-d7ab-4edc-ad94-cbbdd652ff15" />
+
+<img width="577" height="103" alt="Image" src="https://github.com/user-attachments/assets/5e0b7782-a05d-489d-a1e0-b03d1aa669b9" />
+
+<img width="585" height="95" alt="Image" src="https://github.com/user-attachments/assets/95435581-8f80-4ac2-b043-158bf51d242c" />
